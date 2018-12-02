@@ -1,3 +1,5 @@
 [user]
-	email = plchldr@oddco.de
-	name = plchldr
+	email = jonas.beyer@oddco.de
+	name = Jonas Beyer
+[commit]
+	gpgsign = true
